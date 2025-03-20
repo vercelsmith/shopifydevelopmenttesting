@@ -11,9 +11,9 @@
         <h1>Welcome to Our Shopify Store</h1>
         <nav>
             <ul>
-                <li><a href="https://ikonicdev.com/arvada-co/">Software Development</a></li>
-                <li><a href="https://ikonicdev.com/charlotte-nc/shopify-development/">Shopify Development</a></li>
-                <li><a href="https://ikonicdev.com/el-paso-tx/">Web Development</a></li>
+                <li><a href="https://ikonicdev.com/arvada-co/"> web development company arvada co </a></li>
+                <li><a href="https://ikonicdev.com/charlotte-nc/shopify-development/">Shopify Development Charlotte </a></li>
+                <li><a href="https://ikonicdev.com/el-paso-tx/">web design el paso</a></li>
             </ul>
         </nav>
     </header>
